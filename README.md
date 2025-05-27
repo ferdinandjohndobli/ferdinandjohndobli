@@ -11,7 +11,7 @@
 
 ## 💼 Professional Summary
 
-** Passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
+**Passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
 
 <table>
 <tr>
