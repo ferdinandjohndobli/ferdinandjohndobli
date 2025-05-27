@@ -1,146 +1,167 @@
-# Hi there! 👋 I'm Ferdinand John Dobli
+# Ferdinand John Dobli
+### BSIT Graduate | Full-Stack Developer | Problem Solver
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&width=435&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning+New+Things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Application+Developer;LeetCode+%26+HackerRank+Enthusiast;Building+Scalable+Solutions;BSIT+Graduate+%7C+Ready+to+Innovate)
   
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate developer who loves creating innovative solutions and bringing ideas to life through code. Whether it's building responsive web applications, developing robust backend systems, or exploring new technologies, I'm always excited to take on new challenges.
+## 💼 Professional Summary
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+**BSIT Graduate** passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
 
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning and exploring new technologies  
-- 💡 Love solving complex problems with clean, efficient code
-- 🎯 Goal: Contributing to open source and building impactful applications
-- ⚡ Fun fact: I debug with coffee and solve problems with creativity!
+<table>
+<tr>
+<td width="50%">
 
-<br clear="both">
+### 🎯 What I Do
+- **Full-Stack Development** - End-to-end application solutions
+- **Problem Solving** - Active on LeetCode & HackerRank
+- **System Design** - Scalable and maintainable architectures
+- **Code Optimization** - Performance-focused development
 
-## 📊 GitHub Statistics
+### 🚀 Quick Stats
+- **Education:** BSIT Graduate
+- **Focus:** Full-Stack Applications
+- **Passion:** Algorithmic Problem Solving
+- **Goal:** Building impactful software solutions
+
+</td>
+<td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdinandjohndobli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdinandjohndobli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdinandjohndobli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdinandjohndobli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+</td>
+</tr>
+</table>
 
-## 🛠️ Technologies & Tools
+---
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td width="33%" align="center">
 
 ### Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td width="33%" align="center">
 
 ### Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-</div>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-</div>
+</td>
+<td width="33%" align="center">
 
-### Tools & Platforms
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-</div>
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📈 Contribution Graph
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferdinandjohndobli&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00D4AA&point=58A6FF" alt="GitHub Activity Graph" />
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Recent Work
+[![Weather-App](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=Weather-App&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ferdinandjohndobli/Weather-App)
+
+[![Student-Information-System](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=Student-Information-System&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ferdinandjohndobli/Student-Information-System)
+
+</td>
+<td width="50%">
+
+### 💡 Key Projects
+[![ERP-FINAL](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=ERP-FINAL&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ferdinandjohndobli/ERP-FINAL)
+
+[![University-Dormitory-System](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=University-Dormitory-System&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ferdinandjohndobli/University-Dormitory-System)
+
+</td>
+</tr>
+</table>
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferdinandjohndobli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinandjohndobli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" width="100%" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdinandjohndobli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" width="100%" />
+</td>
+</tr>
+</table>
 </div>
 
-## 🌟 Featured Projects
+---
+
+## 🎯 Competitive Programming
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=project-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ferdinandjohndobli/project-name-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ferdinandjohndobli&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ferdinandjohndobli/project-name-2)
-  
+
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+**Constantly sharpening problem-solving skills through algorithmic challenges**
+
 </div>
 
-## 📫 Let's Connect!
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdinandjohndobli)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandjohndobli@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ferdinandjohndobli)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferdinandjohndobli)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ferdinandjohndobli)
-  
-</div>
 
-## 💭 Quote of the Day
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdinandjohndobli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandjohndobli@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
 </div>
 
 ---
 
 <div align="center">
   
-  **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🚀**
+  **🎓 BSIT Graduate • 💻 Full-Stack Developer • 🧩 Problem Solver**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ferdinandjohndobli&label=Profile%20views&color=0e75b6&style=flat)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ferdinandjohndobli&style=flat-square&color=00d4aa)
   [![GitHub followers](https://img.shields.io/github/followers/ferdinandjohndobli?label=Follow&style=social)](https://github.com/ferdinandjohndobli)
   
+  *"Building tomorrow's solutions with today's code"*
+  
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ferdinandjohndobli/ferdinandjohndobli/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div
