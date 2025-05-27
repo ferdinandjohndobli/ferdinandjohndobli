@@ -8,11 +8,6 @@
 </div>
 
 ---
-
-## 🚀 Professional Excellence
-
-**Elite Full-Stack Developer** specializing in **cutting-edge application development** and **AI integration**. I architect scalable solutions, master algorithmic challenges on **LeetCode** and **HackerRank**, and excel in **AI Prompt Engineering**. Passionate about transforming complex problems into elegant, high-performance code.
-
 <table>
 <tr>
 <td width="50%">
