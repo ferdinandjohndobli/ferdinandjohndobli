@@ -1,5 +1,5 @@
 # Ferdinand John Dobli
-### BSIT Graduate | Full-Stack Developer | Problem Solver
+### BSIT | Full-Stack Developer | Problem Solver
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 
 ## 💼 Professional Summary
 
-**BSIT Graduate** passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
+** Passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
 
 <table>
 <tr>
@@ -24,7 +24,7 @@
 - **Code Optimization** - Performance-focused development
 
 ### 🚀 Quick Stats
-- **Education:** BSIT Graduate
+- **Education:** BSIT Student
 - **Focus:** Full-Stack Applications
 - **Passion:** Algorithmic Problem Solving
 - **Goal:** Building impactful software solutions
@@ -157,7 +157,7 @@
 
 <div align="center">
   
-  **🎓 BSIT Graduate • 💻 Full-Stack Developer • 🧩 Problem Solver**
+  **• 💻 Full-Stack Developer • 🧩 Problem Solver**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ferdinandjohndobli&style=flat-square&color=00d4aa)
   [![GitHub followers](https://img.shields.io/github/followers/ferdinandjohndobli?label=Follow&style=social)](https://github.com/ferdinandjohndobli)
