@@ -1,6 +1,3 @@
-# Ferdinand John Dobli
-### Full-Stack Developer | AI Engineer | Problem Solver | Innovation Architect
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D4AA&center=true&vCenter=true&width=800&lines=Elite+Full-Stack+Developer;AI+%26+Prompt+Engineering+Expert;LeetCode+%26+HackerRank+Champion;Cloud+%26+DevOps+Specialist;Building+Next-Gen+Solutions;Ready+to+Transform+Your+Vision)
