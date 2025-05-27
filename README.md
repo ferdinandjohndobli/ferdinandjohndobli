@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Application+Developer;LeetCode+%26+HackerRank+Enthusiast;Building+Scalable+Solutions;BSIT+Graduate+%7C+Ready+to+Innovate)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+Application+Developer;LeetCode+%26+HackerRank+Enthusiast;Building+Scalable+Solutions;%7C+Ready+to+Innovate)
   
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 💼 Professional Summary
 
-**Passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
+Passionate about **full-stack application development**. I build end-to-end solutions and love solving algorithmic challenges on **LeetCode** and **HackerRank**. Always ready to tackle complex problems with clean, scalable code.
 
 <table>
 <tr>
